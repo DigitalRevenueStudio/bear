@@ -1,0 +1,578 @@
+[
+  {
+    "name": "Jessie",
+    "cls": "Lancer",
+    "gen": 1,
+    "kind": "damage",
+    "effect": "All troop damage dealt",
+    "values": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "source": "https://www.whiteoutsurvival.wiki/heroes/jessie/"
+  },
+  {
+    "name": "Jasser",
+    "cls": "Marksman",
+    "gen": 1,
+    "kind": "damage",
+    "effect": "All troop damage dealt",
+    "values": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "source": "https://www.whiteoutsurvival.wiki/heroes/jasser/"
+  },
+  {
+    "name": "Seo-yoon",
+    "cls": "Marksman",
+    "gen": 1,
+    "kind": "attack",
+    "effect": "Troop Attack",
+    "values": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "source": "https://www.whiteoutsurvival.wiki/heroes/seo-yoon/"
+  },
+  {
+    "name": "Jeronimo",
+    "cls": "Infantry",
+    "gen": 1,
+    "kind": "damage",
+    "effect": "All troop damage dealt",
+    "values": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
+    "source": "https://www.whiteoutsurvival.wiki/events/bear-hunt/"
+  },
+  {
+    "name": "Sergey",
+    "cls": "Infantry",
+    "gen": 1,
+    "kind": "defensive",
+    "effect": "All troop damage taken reduction",
+    "values": [
+      4,
+      8,
+      12,
+      16,
+      20
+    ],
+    "source": "https://www.whiteoutsurvival.wiki/heroes/sergey/"
+  },
+  {
+    "name": "Bahiti",
+    "cls": "Marksman",
+    "gen": 1,
+    "kind": "defensive",
+    "effect": "All troop damage taken reduction",
+    "values": [
+      4,
+      8,
+      12,
+      16,
+      20
+    ],
+    "source": "https://www.whiteoutsurvival.wiki/heroes/bahiti/"
+  },
+  {
+    "name": "Molly",
+    "cls": "Lancer",
+    "gen": 1,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Natalia",
+    "cls": "Infantry",
+    "gen": 1,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Zinman",
+    "cls": "Marksman",
+    "gen": 1,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Gina",
+    "cls": "Marksman",
+    "gen": 1,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Patrick",
+    "cls": "Lancer",
+    "gen": 1,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Walis Bokan",
+    "cls": "Lancer",
+    "gen": 1,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Flint",
+    "cls": "Infantry",
+    "gen": 2,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Philly",
+    "cls": "Lancer",
+    "gen": 2,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Alonso",
+    "cls": "Marksman",
+    "gen": 2,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Logan",
+    "cls": "Infantry",
+    "gen": 3,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Mia",
+    "cls": "Lancer",
+    "gen": 3,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Greg",
+    "cls": "Marksman",
+    "gen": 3,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Ahmose",
+    "cls": "Infantry",
+    "gen": 4,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Reina",
+    "cls": "Lancer",
+    "gen": 4,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Lynn",
+    "cls": "Marksman",
+    "gen": 4,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Hector",
+    "cls": "Infantry",
+    "gen": 5,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Norah",
+    "cls": "Lancer",
+    "gen": 5,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Gwen",
+    "cls": "Marksman",
+    "gen": 5,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Wu Ming",
+    "cls": "Infantry",
+    "gen": 6,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Renee",
+    "cls": "Lancer",
+    "gen": 6,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Wayne",
+    "cls": "Marksman",
+    "gen": 6,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Edith",
+    "cls": "Infantry",
+    "gen": 7,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Gordon",
+    "cls": "Lancer",
+    "gen": 7,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Bradley",
+    "cls": "Marksman",
+    "gen": 7,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Gatot",
+    "cls": "Infantry",
+    "gen": 8,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Sonya",
+    "cls": "Lancer",
+    "gen": 8,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Hendrik",
+    "cls": "Marksman",
+    "gen": 8,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Magnus",
+    "cls": "Infantry",
+    "gen": 9,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Fred",
+    "cls": "Lancer",
+    "gen": 9,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Xura",
+    "cls": "Marksman",
+    "gen": 9,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Gregory",
+    "cls": "Infantry",
+    "gen": 10,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Freya",
+    "cls": "Lancer",
+    "gen": 10,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Blanchette",
+    "cls": "Marksman",
+    "gen": 10,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Eleonora",
+    "cls": "Infantry",
+    "gen": 11,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Lloyd",
+    "cls": "Lancer",
+    "gen": 11,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Rufus",
+    "cls": "Marksman",
+    "gen": 11,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Hervor",
+    "cls": "Infantry",
+    "gen": 12,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Karol",
+    "cls": "Lancer",
+    "gen": 12,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Ligeia",
+    "cls": "Marksman",
+    "gen": 12,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Gisela",
+    "cls": "Infantry",
+    "gen": 13,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Flora",
+    "cls": "Lancer",
+    "gen": 13,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Vulcanus",
+    "cls": "Marksman",
+    "gen": 13,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Elif",
+    "cls": "Infantry",
+    "gen": 14,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Dominic",
+    "cls": "Lancer",
+    "gen": 14,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Cara",
+    "cls": "Marksman",
+    "gen": 14,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Hank",
+    "cls": "Infantry",
+    "gen": 15,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Estrella",
+    "cls": "Lancer",
+    "gen": 15,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Viveca",
+    "cls": "Marksman",
+    "gen": 15,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Seigel",
+    "cls": "Infantry",
+    "gen": 16,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Ursar",
+    "cls": "Lancer",
+    "gen": 16,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Aisling",
+    "cls": "Marksman",
+    "gen": 16,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Aiden",
+    "cls": "Infantry",
+    "gen": 17,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Bertha",
+    "cls": "Lancer",
+    "gen": 17,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  },
+  {
+    "name": "Eleanor",
+    "cls": "Marksman",
+    "gen": 17,
+    "kind": "unreviewed",
+    "effect": "",
+    "values": [],
+    "source": ""
+  }
+]
